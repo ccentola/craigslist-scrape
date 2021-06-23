@@ -1,0 +1,19 @@
+{
+  "name": "craigslist-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "mongoose": "^5.12.14",
+    "puppeteer": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
