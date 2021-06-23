@@ -80,14 +80,4 @@ async function main()
 
 main();
 
-main();
-
-
-
-const test = {
-    'hello': 'hey',
-    "hello0oooooooooooo": 'hey',
-    'helloooooo': 'hey'
-};
-
 
